@@ -1,3 +1,1 @@
 # test-delete
-smksm
-ssn
